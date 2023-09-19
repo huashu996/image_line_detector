@@ -1,8 +1,8 @@
-sudo mkdir build
-cd build
-cmake ..
-make
-./TestLineMatchingAlgorithm 1.png 2.png
+sudo mkdir build  
+cd build  
+cmake ..  
+make  
+./TestLineMatchingAlgorithm 1.png 2.png  
 
 ![example](build/LinesInImage1.png)
 
